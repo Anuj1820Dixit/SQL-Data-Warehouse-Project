@@ -1,7 +1,8 @@
-📊 **Data Warehouse & Analytics Portfolio Project**
+ ##  📊 DataWarehouse and Analytics Project 
+
 Welcome to the Data Warehouse & Analytics Portfolio repository — a comprehensive showcase of modern data engineering practices and analytics-driven insights. This project reflects the full cycle of a data warehousing solution, from ingesting raw data to delivering analytical value, structured to mirror real-world use cases and best practices.
 
-
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 🧱 **Data Architecture Strategy**
@@ -14,7 +15,7 @@ Silver Layer: Intermediate processing takes place here — including data cleans
 
 Gold Layer: Finalized, business-friendly data is structured into a star schema optimized for querying, reporting, and strategic analysis.
 
-
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 🧾 **Project Summary**
 
