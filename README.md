@@ -1,11 +1,11 @@
-# SQL-Data-Warehouse-Project
-Designing and implementing a modern data warehouse using SQL Server, encompassing ETL processes, data modeling, and advanced data analytics.
-📊 Data Warehouse & Analytics Portfolio Project
+📊 **Data Warehouse & Analytics Portfolio Project**
 Welcome to the Data Warehouse & Analytics Portfolio repository — a comprehensive showcase of modern data engineering practices and analytics-driven insights. This project reflects the full cycle of a data warehousing solution, from ingesting raw data to delivering analytical value, structured to mirror real-world use cases and best practices.
 
-🧱 Data Architecture Strategy
-This solution adopts the Medallion Architecture design pattern, employing a layered approach for scalability and clarity across data processing stages:
 
+
+
+🧱 **Data Architecture Strategy**
+This solution adopts the Medallion Architecture design pattern, employing a layered approach for scalability and clarity across data processing stages:
 
 
 Bronze Layer: Raw datasets are ingested directly from source files (CSV) and loaded into a SQL Server database without transformation.
@@ -14,7 +14,10 @@ Silver Layer: Intermediate processing takes place here — including data cleans
 
 Gold Layer: Finalized, business-friendly data is structured into a star schema optimized for querying, reporting, and strategic analysis.
 
-🧾 Project Summary
+
+
+🧾 **Project Summary**
+
 Key components of this project include:
 
 Modern Data Architecture: Built using Medallion Architecture across three layers (Bronze → Silver → Gold).
@@ -25,18 +28,11 @@ Dimensional Modeling: Fact and dimension tables designed for efficient analytica
 
 Insight Generation: Use of SQL queries and reporting tools to surface trends and strategic business metrics.
 
-🔍 Ideal for learners and professionals seeking hands-on experience in:
-Data Engineering
 
-SQL Development
 
-ETL Pipeline Construction
 
-Data Modeling (Star Schema)
+🛠 **Tools and Resources**
 
-Analytical Reporting and Dashboards
-
-🛠 Tools and Resources
 The entire project setup is free and open-source, leveraging the following platforms and tools:
 
 Datasets: Download source CSV files for ERP and CRM systems.
@@ -51,8 +47,12 @@ Notion Project Guide: Access to project steps and detailed instructions.
 
 Notion Template: Use a pre-designed template for planning your workflow.
 
-📋 Implementation Plan
-Phase 1: Data Engineering
+
+
+📋 **Implementation Plan**
+
+**Phase 1: Data Engineering**
+
 Objective:
 Design and implement a modern data warehouse for consolidated reporting using SQL Server.
 
@@ -67,7 +67,8 @@ Focus: Only the most recent dataset is considered; historical tracking is outsid
 
 Documentation: Comprehensive metadata and modeling notes included to support stakeholders and analysts.
 
-Phase 2: Business Intelligence & Reporting
+**Phase 2: Business Intelligence & Reporting**
+
 Objective:
 Extract meaningful insights and KPIs from the warehouse using SQL analytics, focusing on:
 
