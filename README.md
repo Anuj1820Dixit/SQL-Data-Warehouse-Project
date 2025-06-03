@@ -52,7 +52,7 @@ Notion Template: Use a pre-designed template for planning your workflow.
 
 📋 **Implementation Plan**
 
-**Phase 1: Data Engineering**
+**Data Engineering**
 
 Objective:
 Design and implement a modern data warehouse for consolidated reporting using SQL Server.
@@ -67,14 +67,3 @@ Unified Model: Merge datasets into a cohesive schema ready for business consumpt
 Focus: Only the most recent dataset is considered; historical tracking is outside the scope.
 
 Documentation: Comprehensive metadata and modeling notes included to support stakeholders and analysts.
-
-**Phase 2: Business Intelligence & Reporting**
-
-Objective:
-Extract meaningful insights and KPIs from the warehouse using SQL analytics, focusing on:
-
-Customer segmentation and behavior
-
-Product performance trends
-
-Sales growth and seasonality
